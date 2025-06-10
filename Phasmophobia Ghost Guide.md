@@ -24,7 +24,7 @@
 21. [The Mimic](#21-the-mimic)
 22. [Moroi](#22-moroi)
 23. [Deogen](#23-deogen)
-24. [Thayé](#24-thay)
+24. [Thayé](#24-thaye)
 
 ---
 
@@ -961,7 +961,7 @@ A Deogen is a ghost that is constantly aware of its victims. It is known for its
 
 ---
 
-## 24. Thayé
+## 24. Thaye
 
 **Description:**
 A Thayé is a ghost that ages rapidly when players are nearby. It is known for its decreasing activity and speed over time.
